@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(14, 48, 170, 0.267);
+}
+
+.header{
+
+    background-color: rgb(7, 91, 17);
+    color: aliceblue;
+    text-align: center;
+    padding: 5px 0px;
+    
+    
+    
+    }
+
+    .container{
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2em;
+    
+    
+    
+    }
+
+    .card{
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 1em;
+        margin-bottom: 1.5em;
+        text-align: center;
+    }
+    .card img {
+        max-width: 100%;
+        border-radius: 5px;
+        display: block;
+        margin: auto;
+    }
+
+    .card p{
+        font: arial, normal , 13pt;
+        color: black;
+    }
+
+    .rodape{
+
+        background-color: rgb(7, 91, 17);
+        color: #fff;
+        text-align: center;
+
+    }
